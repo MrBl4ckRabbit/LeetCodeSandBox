@@ -34,5 +34,6 @@ public class Main {
             map.put(nums[i], i);
         }
         throw new IllegalArgumentException("No two sum solution");
+
     }
 }
